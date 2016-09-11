@@ -11,4 +11,4 @@ Copyright (c) 2016 voidProc
 https://github.com/Reputeless/Siv3D-GameJam-14-SuperSiv3DKunRun/blob/master/Super-Siv3D-kun-Run.zip?raw=true
 
 #### スクリーンショット
-![スクリーンショット](ss.gif "スクリーンショット")
+![スクリーンショット](run.gif "スクリーンショット")

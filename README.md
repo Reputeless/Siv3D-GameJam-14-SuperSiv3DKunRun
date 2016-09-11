@@ -8,7 +8,7 @@ Reputeless (https://twitter.com/Reputeless)
 Copyright (c) 2016 voidProc
 
 #### 実行ファイルダウンロード
-https://github.com/Reputeless/Siv3D-GameJam-13-Balls/blob/master/Super-Siv3D-kun-Run.zip?raw=true
+https://github.com/Reputeless/Siv3D-GameJam-14-SuperSiv3DKunRun/blob/master/Super-Siv3D-kun-Run.zip?raw=true
 
 #### スクリーンショット
 ![スクリーンショット](ss.gif "スクリーンショット")
